@@ -2,6 +2,6 @@
 ```
 git clone https://github.com/Radianknight/TKBP.git
 cd TKBP
-python TKBP
+python TKBP.py
 
 ```
